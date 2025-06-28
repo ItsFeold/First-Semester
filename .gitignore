@@ -1,0 +1,11 @@
+build
+engine
+engine.exe
+*.wasm
+compile_commands.json
+.cache/
+test_runner
+libs
+scripts/unity
+.github
+.DS_Store
