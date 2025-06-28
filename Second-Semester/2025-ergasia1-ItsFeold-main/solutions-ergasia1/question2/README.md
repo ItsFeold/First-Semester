@@ -1,0 +1,3 @@
+# Question2 
+
+This directory (question2) is focused on implementing a doubly-linked list as well as various useful functions for its usage. The directory contains one header file, its implementation, and a testing file. Inside the linked_list.h header file the function prototypes are defined, as well as a short typedef for the Node and Ltist types. The linked_list.c src file contains the implementation of the prototypes described in its header file, as well as the definitions of the structs list_node and linked_list. The functionality of each function is described in the header file, as well as the source file. The time complexity of each function is descirbed in a seperate PDF (same directory) made in LaTeX, namely Time_Complexity.pdf

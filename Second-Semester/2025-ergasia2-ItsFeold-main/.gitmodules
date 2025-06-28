@@ -1,0 +1,3 @@
+[submodule "solutions-ergasia2/solutions-ergasia2/acutest"]
+	path = solutions-ergasia2/solutions-ergasia2/acutest
+	url = https://github.com/mity/acutest.git

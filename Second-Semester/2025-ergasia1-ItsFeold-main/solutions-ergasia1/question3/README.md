@@ -1,0 +1,4 @@
+# Question3
+
+This directory (question3) implements a basic function regarding singly-linked lists. The directory itself contains a headerfile linked_list.h and its corresponding source file, which contains the definition of a list, as well as a recursive function that takes a list as a paremeter, and returns the biggest integer that exists in a node in the list. There is also a small testing program in the same directory. The implementation of the function is actually done in two parts. Because we are asked to implement it recursively, in order to simplify the function that is to be used by the user, in the implementation we use two functions, the main one that implements the basic algorithm for finding the biggest integer, and one that acts as a caller function, which is to be used by the user, so that the "max" argument is set to lowest possible integer value, when called by the user. 
+
